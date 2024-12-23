@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 09:33+0000\n"
-"PO-Revision-Date: 2024-12-16 20:29\n"
+"PO-Revision-Date: 2024-12-23 20:41\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -3191,7 +3191,7 @@ msgstr "گرد کردن بانکدار"
 #. Option for the 'Rounding Method' (Select) field in DocType 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Banker's Rounding (legacy)"
-msgstr "گردآوری بانکدار (میراث)"
+msgstr "گرد کردن بانکدار (میراث)"
 
 #. Label of the banner (Section Break) field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
@@ -21910,7 +21910,7 @@ msgstr "ریشه {0} قابل حذف نیست"
 #. Option for the 'Rule' (Select) field in DocType 'Assignment Rule'
 #: frappe/automation/doctype/assignment_rule/assignment_rule.json
 msgid "Round Robin"
-msgstr "درخواست کتبی"
+msgstr "نوبت گردشی"
 
 #. Label of the rounding_method (Select) field in DocType 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
