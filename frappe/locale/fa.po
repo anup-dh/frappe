@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 17:58+0000\n"
-"PO-Revision-Date: 2024-12-23 20:41\n"
+"PO-Revision-Date: 2024-12-24 20:37\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -1254,7 +1254,7 @@ msgstr "افزودن تب"
 #: frappe/public/js/frappe/utils/dashboard_utils.js:263
 #: frappe/public/js/frappe/views/reports/query_report.js:252
 msgid "Add to Dashboard"
-msgstr "به داشبورد اضافه کنید"
+msgstr "افزودن به داشبورد"
 
 #: frappe/public/js/frappe/form/sidebar/assign_to.js:98
 msgid "Add to ToDo"
@@ -5536,7 +5536,7 @@ msgstr "شهرستان"
 #: frappe/public/js/frappe/utils/number_systems.js:45
 msgctxt "Number system"
 msgid "Cr"
-msgstr "Cr"
+msgstr "بس"
 
 #. Label of a Check field in DocType 'Custom DocPerm'
 #. Label of a Check field in DocType 'DocPerm'
@@ -22195,7 +22195,7 @@ msgstr "واحد پول را انتخاب کنید"
 #: frappe/desk/doctype/form_tour/form_tour.json
 #: frappe/public/js/frappe/utils/dashboard_utils.js:240
 msgid "Select Dashboard"
-msgstr "داشبورد را انتخاب کنید"
+msgstr "انتخاب داشبورد"
 
 #. Option for the 'Timespan' (Select) field in DocType 'Dashboard Chart'
 #: frappe/desk/doctype/dashboard_chart/dashboard_chart.json
