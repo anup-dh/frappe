@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 17:58+0000\n"
-"PO-Revision-Date: 2024-12-19 20:45\n"
+"PO-Revision-Date: 2024-12-24 20:37\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Turkish\n"
 "MIME-Version: 1.0\n"
@@ -7727,12 +7727,12 @@ msgstr "Belge Adı bir dize olmalıdır"
 #. Name of a DocType
 #: frappe/core/doctype/document_naming_rule/document_naming_rule.json
 msgid "Document Naming Rule"
-msgstr "Belge Adlandırma Kuralı"
+msgstr "Adlandırma Kuralı"
 
 #. Name of a DocType
 #: frappe/core/doctype/document_naming_rule_condition/document_naming_rule_condition.json
 msgid "Document Naming Rule Condition"
-msgstr "Belge Adlandırma Kuralı Koşulu"
+msgstr "Adlandırma Kuralı Koşulu"
 
 #. Name of a DocType
 #: frappe/core/doctype/document_naming_settings/document_naming_settings.json
@@ -8274,7 +8274,7 @@ msgstr "ESC"
 #. Description of the Onboarding Step 'Setup Naming Series'
 #: frappe/custom/onboarding_step/naming_series/naming_series.json
 msgid "Each document created in ERPNext can have a unique ID generated for it, using a prefix defined for it. Though each document has some prefix pre-configured, you can further customize it using tools like Naming Series Tool and Document Naming Rule.\n"
-msgstr "ERPNext'te oluşturulan her belge, kendisi için tanımlanmış bir önek kullanılarak oluşturulan benzersiz bir kimliğe sahip olabilir. Her belgenin önceden yapılandırılmış bir öneki olmasına rağmen, Adlandırma Serisi Aracı ve Belge Adlandırma Kuralı gibi araçları kullanarak daha da özelleştirebilirsiniz.\n"
+msgstr "ERPNext'te oluşturulan her belge, kendisi için tanımlanmış bir önek kullanılarak oluşturulan benzersiz bir kimliğe sahip olabilir. Her belgenin önceden yapılandırılmış bir öneki olmasına rağmen, Adlandırma Serisi Aracı ve Belge Adlandırma Kuralı gibi araçları kullanarak daha da özelleştirebilirsiniz."
 
 #. Option for the 'Comment Type' (Select) field in DocType 'Comment'
 #: frappe/core/doctype/comment/comment.json
