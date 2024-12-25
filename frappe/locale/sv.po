@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 09:33+0000\n"
-"PO-Revision-Date: 2024-12-20 20:41\n"
+"PO-Revision-Date: 2024-12-25 21:01\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -3574,7 +3574,7 @@ msgstr "Spärra Moduler"
 #. Label of the blocked (Check) field in DocType 'Desktop Icon'
 #: frappe/desk/doctype/desktop_icon/desktop_icon.json
 msgid "Blocked"
-msgstr "Spärrad"
+msgstr "Spärra"
 
 #. Label of a Card Break in the Website Workspace
 #: frappe/website/doctype/blog_post/blog_post.py:245
@@ -17790,7 +17790,7 @@ msgstr "Äldst Ej Schemalagd Jobb"
 #. Request'
 #: frappe/website/doctype/personal_data_deletion_request/personal_data_deletion_request.json
 msgid "On Hold"
-msgstr "Parkerad"
+msgstr "Spärrad"
 
 #. Option for the 'DocType Event' (Select) field in DocType 'Server Script'
 #: frappe/core/doctype/server_script/server_script.json
