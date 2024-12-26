@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-01 17:58+0000\n"
-"PO-Revision-Date: 2024-12-25 21:01\n"
+"PO-Revision-Date: 2024-12-26 21:01\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -3513,7 +3513,7 @@ msgstr "Spärra Moduler"
 #. Label of a Check field in DocType 'Desktop Icon'
 #: frappe/desk/doctype/desktop_icon/desktop_icon.json
 msgid "Blocked"
-msgstr ""
+msgstr "Spärrad"
 
 #. Label of a Card Break in the Website Workspace
 #: frappe/website/doctype/blog_post/blog_post.py:239
@@ -29149,7 +29149,7 @@ msgstr "Du kan endas ange 3 Anpassade Dokument Typer i tabell Dokument Typer."
 
 #: frappe/handler.py:229
 msgid "You can only upload JPG, PNG, PDF, TXT or Microsoft documents."
-msgstr "Du kan endast ladda upp JPG-, PNG-, PDF-, TXT- eller Microsoft-dokument."
+msgstr "Du kan bara ladda upp JPG, PNG, PDF, TXT eller Microsoft Dokument."
 
 #: frappe/core/doctype/data_export/exporter.py:199
 msgid "You can only upload upto 5000 records in one go. (may be less in some cases)"
