@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2024-12-22 09:33+0000\n"
-"PO-Revision-Date: 2024-12-26 21:02\n"
+"PO-Revision-Date: 2024-12-27 21:04\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -7395,7 +7395,7 @@ msgstr "Inaktivera Registrering för Webbplats"
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Disable Standard Email Footer"
-msgstr "Inaktivera Standard Bolag E-post Signatur"
+msgstr "Inaktivera Standard Bolag E-post Sidfot"
 
 #. Label of the disable_system_update_notification (Check) field in DocType
 #. 'System Settings'
@@ -8727,7 +8727,7 @@ msgstr "E-post Flagg Kö"
 #. Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Email Footer Address"
-msgstr "Standard Bolag E-post Signatur"
+msgstr "Bolag E-post Sidfot"
 
 #. Label of a Link in the Tools Workspace
 #. Name of a DocType
@@ -10720,7 +10720,7 @@ msgstr "Sidfot HTML"
 
 #: frappe/printing/doctype/letter_head/letter_head.py:75
 msgid "Footer HTML set from attachment {0}"
-msgstr "Sidfots-HTML inställd från bilaga {0}"
+msgstr "Sidfot HTML angiven från bilaga {0}"
 
 #. Label of the footer_image_section (Section Break) field in DocType 'Letter
 #. Head'
@@ -11998,7 +11998,7 @@ msgstr "Dölj Avsnitt"
 #: frappe/custom/doctype/custom_field/custom_field.json
 #: frappe/custom/doctype/customize_form_field/customize_form_field.json
 msgid "Hide Border"
-msgstr "Dölj Gräns"
+msgstr "Dölj Kant"
 
 #. Label of the hide_buttons (Check) field in DocType 'Form Tour Step'
 #: frappe/desk/doctype/form_tour_step/form_tour_step.json
@@ -12116,12 +12116,12 @@ msgstr "Dölj sidfot"
 #. 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Hide footer in auto email reports"
-msgstr "Inaktivera Signatur i Automatiska E-post Rapporter"
+msgstr "Inaktivera Sidfot i Automatiska E-post Rapporter"
 
 #. Label of the hide_footer_signup (Check) field in DocType 'Website Settings'
 #: frappe/website/doctype/website_settings/website_settings.json
 msgid "Hide footer signup"
-msgstr "Dölj Sidfot Registrering"
+msgstr "Inaktivera Sidfot Registrering"
 
 #. Label of the hide_navbar (Check) field in DocType 'Web Form'
 #: frappe/website/doctype/web_form/web_form.json
@@ -13799,7 +13799,7 @@ msgstr "JSON"
 #. Label of the webhook_json (Code) field in DocType 'Webhook'
 #: frappe/integrations/doctype/webhook/webhook.json
 msgid "JSON Request Body"
-msgstr "JSON Request Body"
+msgstr "JSON Begäran Av"
 
 #: frappe/templates/signup.html:5
 msgid "Jane Doe"
@@ -20332,7 +20332,7 @@ msgstr "Dataförfråga Rapport"
 
 #: frappe/core/doctype/recorder/recorder.py:196
 msgid "Query analysis complete. Check suggested indexes."
-msgstr "Frågeanalys slutförd. Kontrollera föreslagna index."
+msgstr "Frågeanalys klar. Kontrollera föreslagna index."
 
 #: frappe/utils/safe_exec.py:495
 msgid "Query must be of SELECT or read-only WITH type."
@@ -22295,7 +22295,7 @@ msgstr "S3 Säkerhetskopia Inställningar"
 
 #: frappe/integrations/doctype/s3_backup_settings/s3_backup_settings.js:18
 msgid "S3 Backup complete!"
-msgstr "S3 Backup Slutförd!"
+msgstr "S3 Säkerhetskopia klar!"
 
 #. Label of the s3_bucket_details_section (Section Break) field in DocType 'S3
 #. Backup Settings'
@@ -25074,7 +25074,7 @@ msgstr "Stil Inställningar"
 #. Description of the 'Style' (Select) field in DocType 'Workflow State'
 #: frappe/workflow/doctype/workflow_state/workflow_state.json
 msgid "Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange"
-msgstr "Stil beskriver knapp färg: Slutförd - Grön, Fara - Röd, Omvänd - Svart, Primär - Mörkblå, Info - Ljusblå, Varning - Orange"
+msgstr "Stil beskriver knapp färg: Klar - Grön, Fara - Röd, Omvänd - Svart, Primär - Mörkblå, Info - Ljusblå, Varning - Orange"
 
 #. Label of the stylesheet_section (Tab Break) field in DocType 'Website Theme'
 #: frappe/website/doctype/website_theme/website_theme.json
@@ -30277,7 +30277,7 @@ msgstr "Ditt gamla lösenord är felaktig."
 #. 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "Your organization name and address for the email footer."
-msgstr "Bolag Namn och Adress för E-post Signatur."
+msgstr "Bolag Namn och Adress för E-post Sidfot."
 
 #: frappe/templates/emails/auto_reply.html:2
 msgid "Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail."
