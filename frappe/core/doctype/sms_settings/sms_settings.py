@@ -107,7 +107,11 @@ def send_via_gateway(arg):
 		args.update(arg)
 		create_sms_log(args, success_list)
 		if arg.get("success_msg"):
-			frappe.msgprint(_("SMS sent successfully"))
+			if frappe.session.user != "Guest":
+				if "System User" in frappe.get_roles(frappe.session.user):
+					frappe.msgprint(_("SMS sent to following numbers: {0}").format("\n" + "\n".join(success_list)))
+				else:
+					frappe.msgprint(_("SMS sent successfully"))
 
 
 def get_headers(sms_settings=None):
